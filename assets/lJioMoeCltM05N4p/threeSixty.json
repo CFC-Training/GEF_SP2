@@ -1,0 +1,27 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "6d0IMSyn1jn_course_id",
+  "title": "Arrastrar y soltar CEDAR",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TjDgRgNcyT",
+      "title": "Arrastra los rectángulos para relacionar la etapa del modelo \ncon su descripción",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1080,
+    "height": 1098
+  },
+  "stage": {
+    "width": 820,
+    "height": 980
+  }
+}

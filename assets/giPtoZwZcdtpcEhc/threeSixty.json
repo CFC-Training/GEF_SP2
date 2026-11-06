@@ -1,0 +1,57 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "5jtqlGfyAdR_course_id",
+  "title": "Historia de Aylin y Omar",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5wvh8Kp79Zg",
+      "title": "Diapositiva sin título",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6FiPCjtSOdQ",
+      "title": "Elige una opción",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6RvgsglKhgI",
+      "title": "Elige una opción",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6050B4U8ZJb",
+      "title": "Elige una opción",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "62aHHDoIw91",
+      "title": "Elige una opción",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5rdy3PNvQNF",
+      "title": "Elige una opción",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6FfZFrV4PHZ",
+      "title": "Elige una opción",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
